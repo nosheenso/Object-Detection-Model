@@ -6,7 +6,7 @@
 
 Click below to acces a Colab notebook for training YOLO models. It makes training a custom YOLO model as easy as uploading an image dataset and running a few blocks of code.
 
-<a href="https://colab.research.google.com/drive/1sJDKP_63VFE4Q8zxdoXSl7NIbg7M-JdI?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/drive/1NWWnbJaSQmv_ckLJtGyDF9W253Lvl9hI" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **Option 2. On a Local PC**
 
@@ -16,7 +16,7 @@ The `yolo_detect.py` script provides a basic example that shows how to load a mo
 To download `yolo_detect.py` from this repository, issue: 
 
 ```
-curl --output yolo_detect.py https://raw.githubusercontent.com/EdjeElectronics/Train-and-Deploy-YOLO-Models/refs/heads/main/yolo_detect.py
+curl --output yolo_detect.py https://github.com/nosheenso/Object-Detection-Model/blob/main/yolo_detect.py
 ```
 
 To run inference with a yolov8s model on a USB camera at 1280x720 resolution, issue:
