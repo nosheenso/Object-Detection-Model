@@ -7,7 +7,7 @@ Tutorials and examples showing how to train and deploy Ultralytics YOLO models.
 
 Click below to acces a Colab notebook for training YOLO models. It makes training a custom YOLO model as easy as uploading an image dataset and running a few blocks of code.
 
-<a href="https://colab.research.google.com/drive/1sJDKP_63VFE4Q8zxdoXSl7NIbg7M-JdI?usp=sharing"></a>
+<a href="https://colab.research.google.com/drive/1sJDKP_63VFE4Q8zxdoXSl7NIbg7M-JdI?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **Option 2. On a Local PC**
 
