@@ -16,7 +16,7 @@ The `yolo_detect.py` script provides a basic example that shows how to load a mo
 To download `yolo_detect.py` from this repository, issue: 
 
 ```
-curl -o yolo_detect.py https://raw.githubusercontent.com/EdjeElectronics/Train-and-Deploy-YOLO-Models/refs/heads/main/yolo_detect.py
+curl -o yolo_detect.py https://raw.githubusercontent.com/nosheenso/Object-Detection-Model/main/yolo_detect.py
 ```
 
 To run inference with a yolov8s model on a USB camera at 1280x720 resolution, issue:
